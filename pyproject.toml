@@ -1,7 +1,7 @@
 # pyproject.toml
 [project]
 name = "vesper"
-version = ""
+version = "0.1.0"
 description = "A minimal, keyboard-first Hyprland shell focused on productivity"
 require-python = ">3.11"
 dependencies = [
